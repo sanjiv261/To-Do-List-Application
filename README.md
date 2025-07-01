@@ -40,10 +40,6 @@ A simple To-Do list application built using Java Swing. This project demonstrate
    - Select the task in the list
    - Click "Delete Task"
 
-## Screenshot
-
-![Application Screenshot](screenshot.png)
-
 ## Future Enhancements
 
 - [ ] Add task completion checkboxes
